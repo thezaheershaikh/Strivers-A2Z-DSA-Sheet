@@ -104,8 +104,8 @@ Inspired by the community of learners and problem-solvers on platforms like Leet
 
 ## 📬 Contact
 
-- **GitHub**: [@IbrahimBagwan1](https://github.com/IbrahimBagwan1)
-- **LinkedIn**: [Ibrahim Bagwan](https://www.linkedin.com/in/ibrahimbagwan/)
+- **GitHub**: [@IbrahimBagwan1](https://github.com/thezaheershaikh)
+- **LinkedIn**: [Ibrahim Bagwan](https://www.linkedin.com/in/thezaheershaikh)
 
 ---
 
